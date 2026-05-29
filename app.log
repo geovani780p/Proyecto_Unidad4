@@ -1,0 +1,6 @@
+2026-05-24 01:00:02 | INFO     | Prueba de log
+2026-05-24 02:41:39 | INFO     | Tabla 'contactos' verificada/creada
+2026-05-24 02:42:57 | INFO     | Contacto creado: Valeria | 5632735256 | valery@gmail.com
+2026-05-24 02:43:21 | INFO     | Contacto creado: Leonardo | 5615434771 | geovani780p@gmail.com
+2026-05-24 02:43:23 | INFO     | Se consultaron todos los contactos.
+2026-05-24 02:43:53 | INFO     | Backup generado: backup_20260524_024353.json
