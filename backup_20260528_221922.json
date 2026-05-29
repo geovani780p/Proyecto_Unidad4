@@ -1,0 +1,18 @@
+{
+    "contactos": [
+        {
+            "id": 1,
+            "nombre": "Valeria",
+            "telefono": "5632735256",
+            "email": "valery@gmail.com"
+        },
+        {
+            "id": 2,
+            "nombre": "Leonardo",
+            "telefono": "5615434771",
+            "email": "geovani780p@gmail.com"
+        }
+    ],
+    "categorias": [],
+    "productos": []
+}
